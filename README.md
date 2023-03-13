@@ -1,6 +1,6 @@
 # 👋 <Hello World!> 
 
- My name is Lucas Vinicius, I'm in my 1st period of Software Engeneering on UniFil - Londrina, Parana, Brazil.
+ My name is Lucas Silva, I'm in my 1st period of Software Engeneering on UniFil - Londrina, Parana, Brazil.
  
  ## 🚀 About me.
   Just a newcomer front-end developer getting deeper and deeper into the development world!
