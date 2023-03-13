@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello There! 
 
-<!--
-**LucasSilva-jpg/LucasSilva-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Lucas Vinicius, I'm in my 1st period of Software Engeneering on UniFil - Londrina, Parana, Brazil.
+ 
+ ## 🚀 About me.
+  Just a newcomer front-end developer getting deeper and deeper into the development world!
+  
+  I had my first experience with the developer world with Danki Code, which is a course made for Game Developers, and it is where I had my developer love awaken and stepped into Software Developing with the help of online courses like Origamid and Rocketseat.
+  Currently looking for my first oportunity in IT area.
+ 
+ ## 🛠 Skills.
+ HTML, CSS and JavaScript.
+ 
+ ## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-silva-lima-642305223/)
 
-Here are some ideas to get you started:
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
