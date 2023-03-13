@@ -9,10 +9,10 @@
   Currently looking for my first oportunity in IT area.
  
  ## 🛠 Skills.
- HTML, CSS and JavaScript.
+ HTML, CSS, JavaScript.
  
  ## 🧠 Learning.
-Java
+Java, Figma.
  
  ## 📫 How to get in touch with me.
  lucasvinislima@gmail.com
