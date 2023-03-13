@@ -11,6 +11,12 @@
  ## 🛠 Skills.
  HTML, CSS and JavaScript.
  
+ ## 🧠 Learning.
+Java
+ 
+ ## 📫 How to get in touch with me.
+ lucasvinislima@gmail.com
+ 
  ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-silva-lima-642305223/)
 
