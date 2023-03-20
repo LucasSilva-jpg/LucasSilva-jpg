@@ -12,7 +12,7 @@
  HTML, CSS, JavaScript.
  
  ## 🧠 Learning.
-Java, Figma.
+Java, Figma, HTML, CSS, JavaScript.
  
  ## 📫 How to get in touch with me.
  lucasvinislima@gmail.com
