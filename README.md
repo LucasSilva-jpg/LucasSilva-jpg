@@ -15,6 +15,7 @@
 Java, Figma, HTML, CSS, JavaScript.
  
  ## 📫 How to get in touch with me.
+ +55 (43) 99835-5387.
  lucasvinislima@gmail.com
  
  ## 🔗 Links
