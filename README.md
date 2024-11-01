@@ -1,19 +1,45 @@
 # 👋 <Hello World!> 
 
- My name is Lucas Silva, I'm in my 1st period of Software Engeneering on UniFil - Londrina, Parana, Brazil.
+Hello, my name is Lucas, and I am a developer with experience in technology and programming. 
  
  ## 🚀 About me.
-  Just a newcomer front-end developer getting deeper and deeper into the development world!
-  
-  I had my first experience with the developer world with Danki Code, which is a course made for Game Developers, and it is where I had my developer love awaken and stepped into Software Developing with the help of online courses like Origamid and Rocketseat.
-  Currently looking for my first oportunity in IT area.
  
- ## 🧠 Leaning.
- <li>HTML</li> 
- <li>CSS</li> 
- <li>JavaScript</li>
- <li>Java</li> 
- <li>Figma</li>
+Throughout my career, I have been enhancing my skills and expanding my knowledge to provide efficient and innovative solutions in application development. Additionally, I am fluent in English, a skill I acquired through self-study.
+
+Currently, I work as a Front-end Developer, focusing on the development and maintenance of applications with an emphasis on user experience. My core competencies include languages such as JavaScript, Dart, and Java, as well as modern frameworks like React Bootstrap and Flutter, which enable me to deliver dynamic and responsive interfaces. I also have experience with version control using Git and am proficient in design tools like Figma, essential for creating high-quality prototypes and wireframes.
+
+I am motivated to contribute with my skills and to learn from experienced professionals, always committed to continuous development and excellence in my work.
+ 
+## 🧠 Programming Languages
+- Dart
+- JavaScript
+- Java
+
+## 📦 Frameworks and Libraries
+- Flutter
+- React
+- JSF
+- Android SDK
+
+## 🔧 Version Control Tools
+- Git
+
+## 🗄️ Databases
+- SQL
+- Postgres
+
+## 🎨 Design Tools
+- Figma
+
+## ⚙️ Other Skills
+- HTML5
+- CSS3
+
+## 💻 Hardware
+
+## 🌐 Languages
+- English
+- Spanish
  
  ## 📫 How to get in touch with me.
  +55 (43) 99835-5387. <br> 
