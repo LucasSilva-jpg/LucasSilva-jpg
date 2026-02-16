@@ -1,55 +1,77 @@
-# 👋 <Hello World!> 
+# 👋 Hi, I'm Lucas Vinicius
 
-Hello, my name is Lucas, and I am a developer with experience in technology and programming. 
- 
- ## 🚀 About me.
- 
-Throughout my career, I have been enhancing my skills and expanding my knowledge to provide efficient and innovative solutions in application development. Additionally, I am fluent in English, a skill I acquired through self-study.
+Front-end & Mobile Developer focused on building performant, scalable and user-centered applications.
 
-Currently, I work as a Front-end Developer, focusing on the development and maintenance of applications with an emphasis on user experience. My core competencies include languages such as JavaScript, Dart, and Java, as well as modern frameworks like React Bootstrap and Flutter, which enable me to deliver dynamic and responsive interfaces. I also have experience with version control using Git and am proficient in design tools like Figma, essential for creating high-quality prototypes and wireframes.
+---
 
-I am motivated to contribute with my skills and to learn from experienced professionals, always committed to continuous development and excellence in my work.
- 
-## 🧠 Programming Languages
-- Dart
+## 🚀 About Me
+
+I’m a developer with experience in web and mobile development, working mainly with modern front-end technologies. 
+
+Currently focused on building responsive interfaces, improving user experience, and writing clean, maintainable code.
+
+I have professional experience developing full-stack applications and mobile solutions, always prioritizing performance, usability, and scalability.
+
+I’m constantly improving my technical skills and looking for opportunities to build impactful products.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
 - JavaScript
+- Dart
 - Java
 
-## 📦 Frameworks and Libraries
-- Flutter
+### ⚙️ Frameworks & Libraries
 - React
+- Flutter
+- Bootstrap
 - JSF
 - Android SDK
 
-## 🔧 Version Control Tools
-- Git
-
-## 🗄️ Databases
+### 🗄 Databases
 - SQL
-- Postgres
+- PostgreSQL
 
-## 🎨 Design Tools
+### 🔧 Tools
+- Git
 - Figma
 
-## ⚙️ Other Skills
+### 🌐 Other
 - HTML5
 - CSS3
 
-## 💻 Hardware
+---
 
-## 🌐 Languages
-- English
-- Spanish
- 
- ## 📫 How to get in touch with me.
- +55 (43) 99835-5387. <br> 
- lucasvinislima@gmail.com
- 
- 
- ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-silva-lima-642305223/)
+## 💼 Professional Experience
 
-  
-  
+**Front-end & Full-stack Developer**  
+*NX Multiservices — Aug 2023 - Jun 2025*
 
+- Developed and maintained web and mobile applications  
+- Improved UI/UX and optimized performance  
+- Worked with modern front-end stacks and backend integration  
 
+**Intern**  
+*3R Real Estate Registry Office — Jun 2019 - Jul 2020*
+
+**Customer Service**  
+*Eliton Araújo Carneiro Lawyers — Nov 2020 - Aug 2023*
+
+---
+
+## 🌍 Languages
+
+- English (Advanced)
+- Portuguese (Native)
+- Spanish (Intermediate)
+
+---
+
+## 📫 Contact
+
+📧 lucasvinislima@gmail.com  
+📱 +55 (43) 99835-5387  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-vinicius-silva-lima-642305223/)
