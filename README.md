@@ -47,17 +47,11 @@ I’m constantly improving my technical skills and looking for opportunities to 
 ## 💼 Professional Experience
 
 **Front-end & Full-stack Developer**  
-*NX Multiservices — Aug 2023 - Jun 2025*
+*NX Multiservices — Aug 2023 - Nov 2025*
 
 - Developed and maintained web and mobile applications  
 - Improved UI/UX and optimized performance  
 - Worked with modern front-end stacks and backend integration  
-
-**Intern**  
-*3R Real Estate Registry Office — Jun 2019 - Jul 2020*
-
-**Customer Service**  
-*Eliton Araújo Carneiro Lawyers — Nov 2020 - Aug 2023*
 
 ---
 
